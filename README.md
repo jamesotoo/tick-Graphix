@@ -1,2 +1,1 @@
-# cybersecurity
-cybersecurity
+# This repository features original graphic design projects including flyers, product labels, social media creatives, and branding concepts. Each design demonstrates creativity, color balance, typography skills, and visual communication techniques for real-world applications.
